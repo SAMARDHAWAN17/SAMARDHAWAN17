@@ -18,23 +18,7 @@
 
 ---
 
-### 📊 GitHub Stats
-![Samar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMARDHAWAN17&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=SAMARDHAWAN17&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=SAMARDHAWAN17&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
 ⭐️ From [SAMARDHAWAN17](https://github.com/SAMARDHAWAN17)
-
 
 <!--
 **SAMARDHAWAN17/SAMARDHAWAN17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
